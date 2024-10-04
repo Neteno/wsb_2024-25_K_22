@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\Nowy folder\wsb_2024-25_K_22\app1\bin\Debug\net8.0\app1.exe
+C:\Users\Student\Desktop\Nowy folder\wsb_2024-25_K_22\app1\bin\Debug\net8.0\app1.deps.json
+C:\Users\Student\Desktop\Nowy folder\wsb_2024-25_K_22\app1\bin\Debug\net8.0\app1.runtimeconfig.json
+C:\Users\Student\Desktop\Nowy folder\wsb_2024-25_K_22\app1\bin\Debug\net8.0\app1.dll
+C:\Users\Student\Desktop\Nowy folder\wsb_2024-25_K_22\app1\bin\Debug\net8.0\app1.pdb
+C:\Users\Student\Desktop\Nowy folder\wsb_2024-25_K_22\app1\obj\Debug\net8.0\app1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Nowy folder\wsb_2024-25_K_22\app1\obj\Debug\net8.0\app1.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Nowy folder\wsb_2024-25_K_22\app1\obj\Debug\net8.0\app1.AssemblyInfo.cs
+C:\Users\Student\Desktop\Nowy folder\wsb_2024-25_K_22\app1\obj\Debug\net8.0\app1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Nowy folder\wsb_2024-25_K_22\app1\obj\Debug\net8.0\app1.sourcelink.json
+C:\Users\Student\Desktop\Nowy folder\wsb_2024-25_K_22\app1\obj\Debug\net8.0\app1.dll
+C:\Users\Student\Desktop\Nowy folder\wsb_2024-25_K_22\app1\obj\Debug\net8.0\refint\app1.dll
+C:\Users\Student\Desktop\Nowy folder\wsb_2024-25_K_22\app1\obj\Debug\net8.0\app1.pdb
+C:\Users\Student\Desktop\Nowy folder\wsb_2024-25_K_22\app1\obj\Debug\net8.0\app1.genruntimeconfig.cache
+C:\Users\Student\Desktop\Nowy folder\wsb_2024-25_K_22\app1\obj\Debug\net8.0\ref\app1.dll
