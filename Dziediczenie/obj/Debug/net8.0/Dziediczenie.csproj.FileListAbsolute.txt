@@ -1,0 +1,14 @@
+C:\Users\Szymon\source\repos\Dziediczenie\bin\Debug\net8.0\Dziediczenie.exe
+C:\Users\Szymon\source\repos\Dziediczenie\bin\Debug\net8.0\Dziediczenie.deps.json
+C:\Users\Szymon\source\repos\Dziediczenie\bin\Debug\net8.0\Dziediczenie.runtimeconfig.json
+C:\Users\Szymon\source\repos\Dziediczenie\bin\Debug\net8.0\Dziediczenie.dll
+C:\Users\Szymon\source\repos\Dziediczenie\bin\Debug\net8.0\Dziediczenie.pdb
+C:\Users\Szymon\source\repos\Dziediczenie\obj\Debug\net8.0\Dziediczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\source\repos\Dziediczenie\obj\Debug\net8.0\Dziediczenie.AssemblyInfoInputs.cache
+C:\Users\Szymon\source\repos\Dziediczenie\obj\Debug\net8.0\Dziediczenie.AssemblyInfo.cs
+C:\Users\Szymon\source\repos\Dziediczenie\obj\Debug\net8.0\Dziediczenie.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\source\repos\Dziediczenie\obj\Debug\net8.0\Dziediczenie.dll
+C:\Users\Szymon\source\repos\Dziediczenie\obj\Debug\net8.0\refint\Dziediczenie.dll
+C:\Users\Szymon\source\repos\Dziediczenie\obj\Debug\net8.0\Dziediczenie.pdb
+C:\Users\Szymon\source\repos\Dziediczenie\obj\Debug\net8.0\Dziediczenie.genruntimeconfig.cache
+C:\Users\Szymon\source\repos\Dziediczenie\obj\Debug\net8.0\ref\Dziediczenie.dll
