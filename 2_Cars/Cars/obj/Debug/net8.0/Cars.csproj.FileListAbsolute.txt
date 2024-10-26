@@ -1,0 +1,15 @@
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Cars\Cars\bin\Debug\net8.0\Cars.exe
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Cars\Cars\bin\Debug\net8.0\Cars.deps.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Cars\Cars\bin\Debug\net8.0\Cars.runtimeconfig.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Cars\Cars\bin\Debug\net8.0\Cars.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Cars\Cars\bin\Debug\net8.0\Cars.pdb
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Cars\Cars\obj\Debug\net8.0\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Cars\Cars\obj\Debug\net8.0\Cars.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Cars\Cars\obj\Debug\net8.0\Cars.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Cars\Cars\obj\Debug\net8.0\Cars.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Cars\Cars\obj\Debug\net8.0\Cars.sourcelink.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Cars\Cars\obj\Debug\net8.0\Cars.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Cars\Cars\obj\Debug\net8.0\refint\Cars.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Cars\Cars\obj\Debug\net8.0\Cars.pdb
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Cars\Cars\obj\Debug\net8.0\Cars.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Cars\Cars\obj\Debug\net8.0\ref\Cars.dll

@@ -1,0 +1,10 @@
+Dodaj właściwość FuelConsumption do klasy Vehicle:
+Właściwość ta będzie przechowywać wartość spalania na 100 km.
+Zaktualizuj metodę CalculateRange, aby uwzględniała spalanie na 100 km:
+Metoda ta obliczy zasięg pojazdu na podstawie ilości paliwa oraz spalania na 100 km.
+Zaktualizuj klasę Vehicle:
+Dodaj nową właściwość FuelConsumption.
+Zaktualizuj metodę CalculateRange.
+Zaktualizuj metodę Main, aby wykorzystać nową metodę CalculateRange:
+Utwórz obiekty Vehicle z odpowiednimi wartościami dla FuelConsumption.
+Wyświetl zasięg pojazdów za pomocą metody CalculateRange.

@@ -1,0 +1,35 @@
+Zadanie 1 – klasy (właściwości, metody)
+1.	Definicje enumeratorów:
+o	Utwórz enumerator Color z trzema wartościami: Czerwony, Niebieski, Zielony.
+o	Utwórz enumerator Type z czterema wartościami: Samochód, Motor, Ciężarówka, SUV.
+
+2.	Definicja klasy Vehicle:
+o	Utwórz klasę Vehicle z następującymi właściwościami:
+	string Name - nazwa pojazdu.
+	Color Color - kolor pojazdu.
+	double Speed - prędkość pojazdu.
+	double Fuel - rodzaj paliwa pojazdu.
+	List<Type> Type - lista typów pojazdu.
+	string Extra - dodatkowe informacje o pojeździe.
+
+o	Dodaj metodę ShowData(), która wyświetli wszystkie właściwości pojazdu w jednym Console.WriteLine.
+
+3.	Definicja klasy Garage:
+o	Utwórz klasę Garage z następującymi właściwościami:
+	List<Vehicle> Vehicles - lista pojazdów w garażu.
+	byte Capacity - pojemność garażu.
+o	Dodaj metodę AddVehicles(Vehicle vehicle), która dodaje pojazd do garażu, jeśli jest miejsce, i wyświetla odpowiedni komunikat.
+o	Dodaj metodę RemoveVehicle(Vehicle vehicle), która usuwa pojazd z garażu, jeśli istnieje, i wyświetla odpowiedni komunikat.
+o	Dodaj metodę ShowVehicles(), która wyświetla liczbę pojazdów każdego typu.
+o	Dodaj metodę ShowAllVehicles(), która wyświetla dane wszystkich pojazdów w garażu.
+
+4.	Implementacja metody Main:
+o	Utwórz obiekt Vehicle dla motocykla o nazwie “Yamaha” i typie Motor.
+o	Utwórz obiekt Vehicle dla samochodu o nazwie “Fiat”, kolorze Niebieski, prędkości 115, paliwie 50, typach Samochód i SUV, oraz dodatkowych informacjach “126p”.
+o	Utwórz obiekt Vehicle dla innego samochodu o nazwie “Fiat”, kolorze Niebieski, prędkości 115, paliwie 50, typie Samochód, oraz dodatkowych informacjach “126p”.
+o	Utwórz obiekt Garage o pojemności 10 i zainicjalizuj listę pojazdów.
+o	Dodaj wszystkie utworzone pojazdy do garażu.
+o	Wyświetl wszystkie pojazdy w garażu.
+o	Wyświetl liczbę pojazdów każdego typu.
+o	Usuń jeden z pojazdów z garażu.
+o	Ponownie wyświetl liczbę pojazdów każdego typu oraz wszystkie pojazdy w garażu.
