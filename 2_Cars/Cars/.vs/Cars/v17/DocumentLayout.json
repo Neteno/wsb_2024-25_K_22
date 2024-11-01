@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Szymon\\Desktop\\Studia S3\\Prograwowanie obiektowe\\Projekty\\wsb_2024-25_K_22\\2_Cars\\Cars\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B282BCAD-6A69-4400-A1D5-16E8F000816E}|Cars.csproj|c:\\users\\szymon\\desktop\\studia s3\\prograwowanie obiektowe\\projekty\\wsb_2024-25_k_22\\2_cars\\cars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B282BCAD-6A69-4400-A1D5-16E8F000816E}|Cars.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Szymon\\Desktop\\Studia S3\\Prograwowanie obiektowe\\Projekty\\wsb_2024-25_K_22\\2_Cars\\Cars\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,7 +24,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Szymon\\Desktop\\Studia S3\\Prograwowanie obiektowe\\Projekty\\wsb_2024-25_K_22\\2_Cars\\Cars\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T10:36:53.086Z",
               "EditorCaption": ""

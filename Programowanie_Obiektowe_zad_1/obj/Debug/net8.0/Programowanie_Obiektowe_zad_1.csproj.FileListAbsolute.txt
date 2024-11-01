@@ -1,0 +1,14 @@
+C:\Users\Szymon\source\repos\Programowanie_Obiektowe_zad_1\bin\Debug\net8.0\Programowanie_Obiektowe_zad_1.exe
+C:\Users\Szymon\source\repos\Programowanie_Obiektowe_zad_1\bin\Debug\net8.0\Programowanie_Obiektowe_zad_1.deps.json
+C:\Users\Szymon\source\repos\Programowanie_Obiektowe_zad_1\bin\Debug\net8.0\Programowanie_Obiektowe_zad_1.runtimeconfig.json
+C:\Users\Szymon\source\repos\Programowanie_Obiektowe_zad_1\bin\Debug\net8.0\Programowanie_Obiektowe_zad_1.dll
+C:\Users\Szymon\source\repos\Programowanie_Obiektowe_zad_1\bin\Debug\net8.0\Programowanie_Obiektowe_zad_1.pdb
+C:\Users\Szymon\source\repos\Programowanie_Obiektowe_zad_1\obj\Debug\net8.0\Programowanie_Obiektowe_zad_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\source\repos\Programowanie_Obiektowe_zad_1\obj\Debug\net8.0\Programowanie_Obiektowe_zad_1.AssemblyInfoInputs.cache
+C:\Users\Szymon\source\repos\Programowanie_Obiektowe_zad_1\obj\Debug\net8.0\Programowanie_Obiektowe_zad_1.AssemblyInfo.cs
+C:\Users\Szymon\source\repos\Programowanie_Obiektowe_zad_1\obj\Debug\net8.0\Programowanie_Obiektowe_zad_1.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\source\repos\Programowanie_Obiektowe_zad_1\obj\Debug\net8.0\Programowanie_Obiektowe_zad_1.dll
+C:\Users\Szymon\source\repos\Programowanie_Obiektowe_zad_1\obj\Debug\net8.0\refint\Programowanie_Obiektowe_zad_1.dll
+C:\Users\Szymon\source\repos\Programowanie_Obiektowe_zad_1\obj\Debug\net8.0\Programowanie_Obiektowe_zad_1.pdb
+C:\Users\Szymon\source\repos\Programowanie_Obiektowe_zad_1\obj\Debug\net8.0\Programowanie_Obiektowe_zad_1.genruntimeconfig.cache
+C:\Users\Szymon\source\repos\Programowanie_Obiektowe_zad_1\obj\Debug\net8.0\ref\Programowanie_Obiektowe_zad_1.dll

@@ -12,3 +12,18 @@ C:\Users\Szymon\source\repos\Dziediczenie\obj\Debug\net8.0\refint\Dziediczenie.d
 C:\Users\Szymon\source\repos\Dziediczenie\obj\Debug\net8.0\Dziediczenie.pdb
 C:\Users\Szymon\source\repos\Dziediczenie\obj\Debug\net8.0\Dziediczenie.genruntimeconfig.cache
 C:\Users\Szymon\source\repos\Dziediczenie\obj\Debug\net8.0\ref\Dziediczenie.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Dziediczenie\bin\Debug\net8.0\Dziediczenie.exe
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Dziediczenie\bin\Debug\net8.0\Dziediczenie.deps.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Dziediczenie\bin\Debug\net8.0\Dziediczenie.runtimeconfig.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Dziediczenie\bin\Debug\net8.0\Dziediczenie.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Dziediczenie\bin\Debug\net8.0\Dziediczenie.pdb
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Dziediczenie\obj\Debug\net8.0\Dziediczenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Dziediczenie\obj\Debug\net8.0\Dziediczenie.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Dziediczenie\obj\Debug\net8.0\Dziediczenie.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Dziediczenie\obj\Debug\net8.0\Dziediczenie.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Dziediczenie\obj\Debug\net8.0\Dziediczenie.sourcelink.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Dziediczenie\obj\Debug\net8.0\Dziediczenie.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Dziediczenie\obj\Debug\net8.0\refint\Dziediczenie.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Dziediczenie\obj\Debug\net8.0\Dziediczenie.pdb
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Dziediczenie\obj\Debug\net8.0\Dziediczenie.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Dziediczenie\obj\Debug\net8.0\ref\Dziediczenie.dll
