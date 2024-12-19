@@ -1,0 +1,15 @@
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_2\bin\Debug\net8.0\Programowanie_Obiektowe_zad_2.exe
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_2\bin\Debug\net8.0\Programowanie_Obiektowe_zad_2.deps.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_2\bin\Debug\net8.0\Programowanie_Obiektowe_zad_2.runtimeconfig.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_2\bin\Debug\net8.0\Programowanie_Obiektowe_zad_2.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_2\bin\Debug\net8.0\Programowanie_Obiektowe_zad_2.pdb
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_2\obj\Debug\net8.0\Programowanie_Obiektowe_zad_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_2\obj\Debug\net8.0\Programowanie_Obiektowe_zad_2.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_2\obj\Debug\net8.0\Programowanie_Obiektowe_zad_2.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_2\obj\Debug\net8.0\Programowanie_Obiektowe_zad_2.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_2\obj\Debug\net8.0\Programowanie_Obiektowe_zad_2.sourcelink.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_2\obj\Debug\net8.0\Programowanie_Obiektowe_zad_2.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_2\obj\Debug\net8.0\refint\Programowanie_Obiektowe_zad_2.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_2\obj\Debug\net8.0\Programowanie_Obiektowe_zad_2.pdb
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_2\obj\Debug\net8.0\Programowanie_Obiektowe_zad_2.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_2\obj\Debug\net8.0\ref\Programowanie_Obiektowe_zad_2.dll

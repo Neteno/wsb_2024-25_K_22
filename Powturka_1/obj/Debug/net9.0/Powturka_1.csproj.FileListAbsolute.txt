@@ -1,0 +1,15 @@
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\Powturka_1\bin\Debug\net9.0\Powturka_1.exe
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\Powturka_1\bin\Debug\net9.0\Powturka_1.deps.json
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\Powturka_1\bin\Debug\net9.0\Powturka_1.runtimeconfig.json
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\Powturka_1\bin\Debug\net9.0\Powturka_1.dll
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\Powturka_1\bin\Debug\net9.0\Powturka_1.pdb
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\Powturka_1\obj\Debug\net9.0\Powturka_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\Powturka_1\obj\Debug\net9.0\Powturka_1.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\Powturka_1\obj\Debug\net9.0\Powturka_1.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\Powturka_1\obj\Debug\net9.0\Powturka_1.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\Powturka_1\obj\Debug\net9.0\Powturka_1.sourcelink.json
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\Powturka_1\obj\Debug\net9.0\Powturka_1.dll
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\Powturka_1\obj\Debug\net9.0\refint\Powturka_1.dll
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\Powturka_1\obj\Debug\net9.0\Powturka_1.pdb
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\Powturka_1\obj\Debug\net9.0\Powturka_1.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\Powturka_1\obj\Debug\net9.0\ref\Powturka_1.dll

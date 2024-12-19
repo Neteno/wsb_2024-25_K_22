@@ -1,0 +1,15 @@
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_3\Dziedziczenie_3_3\bin\Debug\net8.0\Dziedziczenie_3_3.exe
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_3\Dziedziczenie_3_3\bin\Debug\net8.0\Dziedziczenie_3_3.deps.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_3\Dziedziczenie_3_3\bin\Debug\net8.0\Dziedziczenie_3_3.runtimeconfig.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_3\Dziedziczenie_3_3\bin\Debug\net8.0\Dziedziczenie_3_3.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_3\Dziedziczenie_3_3\bin\Debug\net8.0\Dziedziczenie_3_3.pdb
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_3\Dziedziczenie_3_3\obj\Debug\net8.0\Dziedziczenie_3_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_3\Dziedziczenie_3_3\obj\Debug\net8.0\Dziedziczenie_3_3.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_3\Dziedziczenie_3_3\obj\Debug\net8.0\Dziedziczenie_3_3.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_3\Dziedziczenie_3_3\obj\Debug\net8.0\Dziedziczenie_3_3.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_3\Dziedziczenie_3_3\obj\Debug\net8.0\Dziedziczenie_3_3.sourcelink.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_3\Dziedziczenie_3_3\obj\Debug\net8.0\Dziedziczenie_3_3.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_3\Dziedziczenie_3_3\obj\Debug\net8.0\refint\Dziedziczenie_3_3.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_3\Dziedziczenie_3_3\obj\Debug\net8.0\Dziedziczenie_3_3.pdb
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_3\Dziedziczenie_3_3\obj\Debug\net8.0\Dziedziczenie_3_3.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Programowanie_Obiektowe_zad_3\Dziedziczenie_3_3\obj\Debug\net8.0\ref\Dziedziczenie_3_3.dll

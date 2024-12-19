@@ -1,0 +1,15 @@
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Interface\bin\Debug\net9.0\2_Interface.exe
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Interface\bin\Debug\net9.0\2_Interface.deps.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Interface\bin\Debug\net9.0\2_Interface.runtimeconfig.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Interface\bin\Debug\net9.0\2_Interface.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Interface\bin\Debug\net9.0\2_Interface.pdb
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Interface\obj\Debug\net9.0\2_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Interface\obj\Debug\net9.0\2_Interface.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Interface\obj\Debug\net9.0\2_Interface.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Interface\obj\Debug\net9.0\2_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Interface\obj\Debug\net9.0\2_Interface.sourcelink.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Interface\obj\Debug\net9.0\2_Interface.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Interface\obj\Debug\net9.0\refint\2_Interface.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Interface\obj\Debug\net9.0\2_Interface.pdb
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Interface\obj\Debug\net9.0\2_Interface.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\2_Interface\obj\Debug\net9.0\ref\2_Interface.dll

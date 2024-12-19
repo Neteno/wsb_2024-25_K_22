@@ -1,0 +1,13 @@
+test[2024-12 15:00:20][2024-12 15:00:20]
+[2024-12 15:01:19]
+[2024-12 15:01:19]
+[2024-12 15:01:19]
+[2024-12 15:06:07 Wysłano Notify, Wysłano wiadomość Witam serdecznie
+]
+[2024-12 15:06:07 Wysłano Notify, Wysłano wiadomość Witam serdecznie
+]
+[2024-12 15:06:07 Wysłano Notify, Wysłano wiadomość Witam serdecznie
+]
+[2024-12 15:16:47] Wysłano Notify, Wysłano wiadomość das
+
+[2024-12 15:16:47] Wysłano Notify, Wysłano wiadomość das

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dziedziczenie_3_3/1.0.0": {
+        "runtime": {
+          "Dziedziczenie_3_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dziedziczenie_3_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

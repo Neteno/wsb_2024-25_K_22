@@ -1,0 +1,15 @@
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Interface_4_1\bin\Debug\net8.0\Interface_4_1.exe
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Interface_4_1\bin\Debug\net8.0\Interface_4_1.deps.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Interface_4_1\bin\Debug\net8.0\Interface_4_1.runtimeconfig.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Interface_4_1\bin\Debug\net8.0\Interface_4_1.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Interface_4_1\bin\Debug\net8.0\Interface_4_1.pdb
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Interface_4_1\obj\Debug\net8.0\Interface_4_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Interface_4_1\obj\Debug\net8.0\Interface_4_1.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Interface_4_1\obj\Debug\net8.0\Interface_4_1.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Interface_4_1\obj\Debug\net8.0\Interface_4_1.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Interface_4_1\obj\Debug\net8.0\Interface_4_1.sourcelink.json
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Interface_4_1\obj\Debug\net8.0\Interface_4_1.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Interface_4_1\obj\Debug\net8.0\refint\Interface_4_1.dll
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Interface_4_1\obj\Debug\net8.0\Interface_4_1.pdb
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Interface_4_1\obj\Debug\net8.0\Interface_4_1.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\Studia S3\Prograwowanie obiektowe\Projekty\wsb_2024-25_K_22\Interface_4_1\obj\Debug\net8.0\ref\Interface_4_1.dll
