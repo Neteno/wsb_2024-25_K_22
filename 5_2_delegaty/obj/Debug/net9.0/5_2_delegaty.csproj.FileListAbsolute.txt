@@ -1,0 +1,15 @@
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_2_delegaty\bin\Debug\net9.0\5_2_delegaty.exe
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_2_delegaty\bin\Debug\net9.0\5_2_delegaty.deps.json
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_2_delegaty\bin\Debug\net9.0\5_2_delegaty.runtimeconfig.json
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_2_delegaty\bin\Debug\net9.0\5_2_delegaty.dll
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_2_delegaty\bin\Debug\net9.0\5_2_delegaty.pdb
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_2_delegaty\obj\Debug\net9.0\5_2_delegaty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_2_delegaty\obj\Debug\net9.0\5_2_delegaty.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_2_delegaty\obj\Debug\net9.0\5_2_delegaty.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_2_delegaty\obj\Debug\net9.0\5_2_delegaty.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_2_delegaty\obj\Debug\net9.0\5_2_delegaty.sourcelink.json
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_2_delegaty\obj\Debug\net9.0\5_2_delegaty.dll
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_2_delegaty\obj\Debug\net9.0\refint\5_2_delegaty.dll
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_2_delegaty\obj\Debug\net9.0\5_2_delegaty.pdb
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_2_delegaty\obj\Debug\net9.0\5_2_delegaty.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_2_delegaty\obj\Debug\net9.0\ref\5_2_delegaty.dll
