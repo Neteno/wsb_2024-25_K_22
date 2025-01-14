@@ -1,0 +1,14 @@
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_3_delegaty\bin\Debug\net9.0\5_3_delegaty.exe
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_3_delegaty\bin\Debug\net9.0\5_3_delegaty.deps.json
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_3_delegaty\bin\Debug\net9.0\5_3_delegaty.runtimeconfig.json
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_3_delegaty\bin\Debug\net9.0\5_3_delegaty.dll
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_3_delegaty\bin\Debug\net9.0\5_3_delegaty.pdb
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_3_delegaty\obj\Debug\net9.0\5_3_delegaty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_3_delegaty\obj\Debug\net9.0\5_3_delegaty.AssemblyInfoInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_3_delegaty\obj\Debug\net9.0\5_3_delegaty.AssemblyInfo.cs
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_3_delegaty\obj\Debug\net9.0\5_3_delegaty.csproj.CoreCompileInputs.cache
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_3_delegaty\obj\Debug\net9.0\5_3_delegaty.dll
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_3_delegaty\obj\Debug\net9.0\refint\5_3_delegaty.dll
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_3_delegaty\obj\Debug\net9.0\5_3_delegaty.pdb
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_3_delegaty\obj\Debug\net9.0\5_3_delegaty.genruntimeconfig.cache
+C:\Users\Szymon\Desktop\Studia S3\C#_Programowanie_Obiektowe\Projekty\wsb_2024-25_K_22\5_3_delegaty\obj\Debug\net9.0\ref\5_3_delegaty.dll
